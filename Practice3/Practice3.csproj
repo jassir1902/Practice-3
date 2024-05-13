@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\Practice3Library\Practice3Library.csproj" />
   </ItemGroup>
 
 </Project>
